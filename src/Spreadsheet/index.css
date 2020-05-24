@@ -1,0 +1,14 @@
+table {
+    text-align: left;
+    border-collapse: collapse;
+}
+
+td {
+    border: 1px gray dotted;
+    padding: 4px;
+    min-width: 96px;
+}
+
+.cell-number {
+    text-align: right;
+}
